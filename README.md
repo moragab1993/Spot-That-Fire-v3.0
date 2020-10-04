@@ -1,4 +1,4 @@
-# CoFFee/Coders - Fire Detection and Impat Prediction
+# CoFFee/Coders - Fire Detection and Impact Prediction
 ***
 ### Under NASA Space App Challenge - Spot That Fire v3.0
 ***
