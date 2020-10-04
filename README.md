@@ -2,7 +2,7 @@
 ***
 ### Under NASA Space App Challenge - Spot That Fire v3.0
 ***
-##### this work is based on [NASA-Space-Apps-Spot-The-Fire-v2.0](https://breakdance.github.io/breakdance/)  repository
+##### Credits to the original repository in [NASA-Space-Apps-Spot-The-Fire-v2.0](https://breakdance.github.io/breakdance/)  
 
 ## requierment
 ##### python 3++ (tested on 3.6.9)
